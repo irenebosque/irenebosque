@@ -15,6 +15,7 @@ __TU Delft__
 
 __Self-taught__
 - 📱 Swift
+- 🔡 NLP, Natural Language Processing
 
 
 <h2> About Irene⚡:</h2>

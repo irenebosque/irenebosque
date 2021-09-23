@@ -6,7 +6,7 @@
 - <i>Previously:</i> Mechatronics engineer at Aragon Institute of Technology.
 
 <h2>👩‍💻 Currently working on:</h2>
-- Master thesis at the Cognitive Robotics group at TU Delft: <i>"Towards off-policy Corrective Imitation Learning"</i> 
+- Master thesis at the Cognitive Robotics group at TU Delft: <i>"Towards Robust Corrective Interactive Deep Learning in Data Intensive Environments"</i> 
 
 <h2>📚 I'm Currently Learning</h2>
 

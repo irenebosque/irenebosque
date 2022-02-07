@@ -2,31 +2,34 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=irenebosque.irenebosque)](https://github.com/irenebosque) [![GitHub followers](https://img.shields.io/github/followers/irenebosque.svg?style=social&label=Follow)](https://github.com/irenebosque?tab=followers)
 
-- <i>Currently:</i> MSc in BioRobotics at TU Delft 
-- <i>Previously:</i> Mechatronics engineer at Aragon Institute of Technology.
+<h2>🔍 Looking for:</h2>
 
-<h2>👩‍💻 Currently working on:</h2>
-- Master thesis at the Cognitive Robotics group at TU Delft: <i>"Towards Robust Corrective Interactive Deep Learning in Data Intensive Environments"</i> 
+- a job in the field of Machine Learning
+<h2>Previously:</h2>
 
-<h2>📚 I'm Currently Learning</h2>
+- MSc from TU Delft: Master thesis at the Cognitive Robotics group: <i>"Towards Robust Corrective Interactive Deep Learning in Data Intensive Environments"</i> 
 
-__TU Delft__
-- 🤖 Imitation Learning in robotics
 
-__Self-taught__
-- 📱 Swift
-- 🔡 NLP, Natural Language Processing
+- I worked for four years as a mechatronic engineer at Aragon Institute of Technology.
+
+
+<h2>👩‍💻 Working on:</h2>
+
+- Building an expenses tracker app in SwiftUI for iOS
+
+<h2>📚 Learning: </h2>
+
+- 🧠 Machine Learning topics
+- 📱 SwiftUI
 
 
 <h2> About Irene⚡:</h2>
-I'm a master student living in Delft, The Netherlands. I love to read, learn new stuff, boardgames and tech in general. If you are around Delft, drop an email and let's catch-up over coffee ☕!
- 
-- Check out my Blog: [https://irenebosque.com](https://irenebosque.com)
+I'm a junior machine learning engineer living in Spain. I love to read, learn new stuff, boardgames, tech in general and code. 
 
 
 <h2>📫 How to reach me:</h2>
 
-<a href="mailto:irenebosque.com@gmail.com">![irenebosque.com@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/irenebosque/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+</a> <a href="https://www.linkedin.com/in/irenebosque/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
 <!--

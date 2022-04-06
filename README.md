@@ -4,7 +4,7 @@
 
 <h2>🔍 Looking for:</h2>
 
-- a job in the field of Machine Learning
+- a job in the field of Machine Learning / Data Science
 <h2>Previously:</h2>
 
 - MSc from TU Delft: Master thesis at the Cognitive Robotics group: <i>"Towards Robust Corrective Interactive Deep Learning in Data Intensive Environments"</i> 
@@ -19,8 +19,8 @@
 
 <h2>📚 Learning: </h2>
 
-- 🧠 Machine Learning topics
-- 📱 SwiftUI
+- 🧠 Machine Learning and Data Science topics
+- ⛓ Blockchain topics 
 
 
 <h2> About Irene⚡:</h2>

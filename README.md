@@ -3,7 +3,7 @@
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=irenebosque.irenebosque)](https://github.com/irenebosque) [![GitHub followers](https://img.shields.io/github/followers/irenebosque.svg?style=social&label=Follow)](https://github.com/irenebosque?tab=followers)
 <h2>👩‍💻 Working on:</h2>
 
-- Officially: Artificial intelligence department at Aragon Institute of Technology
+- Officially: Working on the Artificial intelligence department at Aragon Institute of Technology in health related projects
 
 - Side hustle: Building an app in SwiftUI for iOS
 
